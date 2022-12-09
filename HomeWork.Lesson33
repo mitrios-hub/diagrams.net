@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T09:52:30.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="Y7Ti17xJBvym8LGaYd5t" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-09T10:01:16.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="Y-rD9ixK6mX11yGXSzlP" version="20.6.0" type="github">
   <diagram id="TQFpqDqtHPibF3JOlFXW" name="Страница 1">
     <mxGraphModel dx="2031" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -510,19 +510,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aNT9-6l1JOQ-y6q2Gm55-145" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontSize=12;startArrow=ERmandOne;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="M4DT3SvNq2jz2ceTHlMH-57" target="M4DT3SvNq2jz2ceTHlMH-64">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1076.91" y="970" />
-              <mxPoint x="1076.91" y="1102" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aNT9-6l1JOQ-y6q2Gm55-146" value="Содержит" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="aNT9-6l1JOQ-y6q2Gm55-145">
-          <mxGeometry x="-0.2908" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aNT9-6l1JOQ-y6q2Gm55-147" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontSize=12;startArrow=ERmandOne;startFill=0;endArrow=ERmany;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="M4DT3SvNq2jz2ceTHlMH-79" target="aNT9-6l1JOQ-y6q2Gm55-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="416.90999999999997" y="480" as="sourcePoint" />
@@ -647,6 +634,19 @@
         <mxCell id="aNT9-6l1JOQ-y6q2Gm55-173" value="Включает" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="aNT9-6l1JOQ-y6q2Gm55-172">
           <mxGeometry x="-0.6941" relative="1" as="geometry">
             <mxPoint x="1" y="-280" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aNT9-6l1JOQ-y6q2Gm55-145" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontSize=12;startArrow=ERmandOne;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="M4DT3SvNq2jz2ceTHlMH-64" target="M4DT3SvNq2jz2ceTHlMH-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1076.91" y="1102" />
+              <mxPoint x="1076.91" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aNT9-6l1JOQ-y6q2Gm55-146" value="Содержит" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="aNT9-6l1JOQ-y6q2Gm55-145">
+          <mxGeometry x="-0.2908" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
