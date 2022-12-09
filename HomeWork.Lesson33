@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T09:21:17.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="0ERLoBN0mxTL7vbItAcV" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-09T09:52:30.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="Y7Ti17xJBvym8LGaYd5t" version="20.6.0" type="github">
   <diagram id="TQFpqDqtHPibF3JOlFXW" name="Страница 1">
-    <mxGraphModel dx="1673" dy="934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,7 +223,7 @@
         <mxCell id="M4DT3SvNq2jz2ceTHlMH-116" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Branch LOCAL Database&lt;/b&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="40" width="193" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M4DT3SvNq2jz2ceTHlMH-117" value="ЖурналУслуг" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="M4DT3SvNq2jz2ceTHlMH-117" value="УслугиНаряда" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="155.91" y="1049" width="120.5" height="108" as="geometry" />
         </mxCell>
         <mxCell id="aNT9-6l1JOQ-y6q2Gm55-56" value="НомерНаряда" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="M4DT3SvNq2jz2ceTHlMH-117">
@@ -470,7 +470,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aNT9-6l1JOQ-y6q2Gm55-139" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontSize=12;startArrow=ERmandOne;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="aNT9-6l1JOQ-y6q2Gm55-60" target="M4DT3SvNq2jz2ceTHlMH-64">
+        <mxCell id="aNT9-6l1JOQ-y6q2Gm55-139" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontSize=12;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="aNT9-6l1JOQ-y6q2Gm55-60" target="M4DT3SvNq2jz2ceTHlMH-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="780" y="469" />
