@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T10:21:07.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="YM_VLrIYShS4P6J9Itj1" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T10:21:15.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="hX-MFLjYU-bU9euubAHX" version="21.3.8" type="github">
   <diagram name="Страница 1" id="aXssg_4A3wiU_6N2TrSA">
     <mxGraphModel dx="1149" dy="657" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
           <mxGeometry x="526" y="239" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ac0Yza2DdyiKUzw68PVZ-33" value="Ввести данные ЮЛ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="314" width="120" height="50" as="geometry" />
+          <mxGeometry x="360" y="304" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ac0Yza2DdyiKUzw68PVZ-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Ac0Yza2DdyiKUzw68PVZ-18" target="Ac0Yza2DdyiKUzw68PVZ-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
