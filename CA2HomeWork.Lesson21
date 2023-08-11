@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T11:45:29.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="oDDI8lobGqWuxFceejtF" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T11:52:55.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="DsywhI1LvH4NBJYkUZuG" version="21.6.8" type="github">
   <diagram name="Страница — 1" id="RwL4AA3SWjvCWNWJsgIO">
     <mxGraphModel dx="1950" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1800" math="0" shadow="0">
       <root>
@@ -298,6 +298,11 @@
             <mxPoint x="360" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-Piy61Q2j_bM70zoMHAZ-39" value="RADUIS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Piy61Q2j_bM70zoMHAZ-3">
+          <mxGeometry x="-0.0983" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-Piy61Q2j_bM70zoMHAZ-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-Piy61Q2j_bM70zoMHAZ-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="350" as="sourcePoint" />
@@ -316,6 +321,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="520" as="sourcePoint" />
             <mxPoint x="361" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Piy61Q2j_bM70zoMHAZ-40" value="JSON REST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Piy61Q2j_bM70zoMHAZ-10">
+          <mxGeometry x="0.046" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Piy61Q2j_bM70zoMHAZ-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;" edge="1" parent="1" source="-Piy61Q2j_bM70zoMHAZ-8">
